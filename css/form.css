@@ -805,15 +805,7 @@ ol, ul {
     border-left: 3px solid #EFEFEF;
     padding-left: 35px;
 }
-.zf-descFld  blockquote.zquote span.txt {
-    -moz-user-focus: ignore;
-    -moz-user-input: disabled;
-    -moz-user-select: none;
-    color: #058BC2;
-    float: left;
-    font: bold 50px Arial,Helvetica,sans-serif;
-    margin: -10px 0 0 -30px;
-}
+
 .zf-descFld  blockquote.block_quote {
     background: url("../images/newQuote.gif") no-repeat scroll 12px 10px rgba(0, 0, 0, 0);
     border-left: 3px solid #EFEFEF;
